@@ -1,0 +1,10 @@
+{
+  "version": "1.0.6",
+  "release_date": "2025-01-28",
+  "changelog": [
+    "Inserido filtro da filial do cabeçalho do pedido no App e do codigo do vendedor",
+    "Melhorias na Api de cabeçalho de pedido"
+  ],
+  "required_update": true,
+  "min_app_version": "2.2.4"
+}
