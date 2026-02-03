@@ -1,13 +1,14 @@
 {
-  "version": "1.0.6",
-  "release_date": "2026-01-29",
+  "version": "1.0.7",
+  "release_date": "2026-02-03",
   "changelog": [
-    "Filtro de pedidos",
-    "melhorias na api de cabeçalho de pedidos"
+    "Na aba produtos no pedido, listando itens com e sem estoque",
+    "Ordenação da lista por código do produto",
+    "Busca de fretes cadastrados na rotina 4111 e inserindo automaticamente no pedido caso haja itens para entrega"
   ],
   "required_update": true,
   "min_app_version": "1.0.0",
-  "download_url": "https://github.com/olintosergio/bsales-api-versions/releases/download/v1.0.6/bsales-api-v1.0.6.rar",
-  "release_notes_url": "https://github.com/olintosergio/bsales-api-versions/releases/tag/v1.0.6",
+  "download_url": "https://github.com/olintosergio/bsales-api-versions/releases/download/v1.0.7/bsales-api-v1.0.7.rar",
+  "release_notes_url": "https://github.com/olintosergio/bsales-api-versions/releases/tag/v1.0.7",
   "file_format": "rar"
 }
