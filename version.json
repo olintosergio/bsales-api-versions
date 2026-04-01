@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.0.9",
   "release_date": "2026-04-01",
   "changelog": [
     "Validação do campo MOTIVOBLOQUEIO na PCPEDC, quando pedido cair Bloqueado por motivo de desconto acima do permitido."
