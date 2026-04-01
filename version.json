@@ -1,12 +1,12 @@
 {
-  "version": "1.0.9",
+  "version": "1.1.2",
   "release_date": "2026-04-01",
   "changelog": [
-    "Correcao fix na gravacao do campo MOTIVOBLOQUEIO na tabela pcpedc."
+    "Fix gravação do motivo do bloqueio do pedido, quando o desconto for acima do permitido."
   ],
   "required_update": true,
   "min_app_version": "1.0.0",
-  "download_url": "https://github.com/olintosergio/bsales-api-versions/releases/download/v1.1.1/bsales-api-v1.1.1.rar",
-  "release_notes_url": "https://github.com/olintosergio/bsales-api-versions/releases/tag/v1.1.1",
+  "download_url": "https://github.com/olintosergio/bsales-api-versions/releases/download/v1.1.2/bsales-api-v1.1.2.rar",
+  "release_notes_url": "https://github.com/olintosergio/bsales-api-versions/releases/tag/v1.1.2",
   "file_format": "rar"
 }
