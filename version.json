@@ -1,12 +1,12 @@
 {
-  "version": "1.0.9",
-  "release_date": "2026-02-06",
+  "version": "1.1.0",
+  "release_date": "2026-04-01",
   "changelog": [
-    "ajustado ordenacao de itens na lista de produtos."
+    "Validação do campo MOTIVOBLOQUEIO na PCPEDC, quando pedido cair Bloqueado por motivo de desconto acima do permitido."
   ],
   "required_update": true,
   "min_app_version": "1.0.0",
-  "download_url": "https://github.com/olintosergio/bsales-api-versions/releases/download/v1.0.9/bsales-api-v1.0.9.rar",
-  "release_notes_url": "https://github.com/olintosergio/bsales-api-versions/releases/tag/v1.0.9",
+  "download_url": "https://github.com/olintosergio/bsales-api-versions/releases/download/v1.1.0/bsales-api-v1.1.0.rar",
+  "release_notes_url": "https://github.com/olintosergio/bsales-api-versions/releases/tag/v1.1.0",
   "file_format": "rar"
 }
