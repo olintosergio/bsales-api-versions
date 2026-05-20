@@ -1,12 +1,12 @@
 {
-  "version": "2.0.0",
-  "release_date": "2026-05-17",
+  "version": "2.0.1",
+  "release_date": "2026-05-20",
   "changelog": [
-    "Add função para edição de pedido, na aba clonar/editar pedido."
+    "Melhorias na API de gravação de itens do pedido."
   ],
   "required_update": true,
   "min_app_version": "1.0.0",
-  "download_url": "https://github.com/olintosergio/bsales-api-versions/releases/download/v2.0.0/bsales-api-v2.0.0.rar",
-  "release_notes_url": "https://github.com/olintosergio/bsales-api-versions/releases/tag/v2.0.0",
+  "download_url": "https://github.com/olintosergio/bsales-api-versions/releases/download/v2.0.1/bsales-api-v2.0.1.rar",
+  "release_notes_url": "https://github.com/olintosergio/bsales-api-versions/releases/tag/v2.0.1",
   "file_format": "rar"
 }
