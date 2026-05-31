@@ -1,12 +1,13 @@
 {
-  "version": "2.0.2",
-  "release_date": "2026-05-20",
+  "version": "3.0.0",
+  "release_date": "2026-05-31",
   "changelog": [
-    "Melhorias na API de gravar itens de um pedido."
+    "Fix api de recálculo de estoque reservado.",
+    "Melhorias e refatoração na Api de gravação de itens do pedido."
   ],
-  "required_update": false,
+  "required_update": true,
   "min_app_version": "1.0.0",
-  "download_url": "https://github.com/olintosergio/bsales-api-versions/releases/download/v2.0.2/bsales-api-v2.0.2.rar",
-  "release_notes_url": "https://github.com/olintosergio/bsales-api-versions/releases/tag/v2.0.2",
+  "download_url": "https://github.com/olintosergio/bsales-api-versions/releases/download/v3.0.0/bsales-api-v3.0.0.rar",
+  "release_notes_url": "https://github.com/olintosergio/bsales-api-versions/releases/tag/v3.0.0",
   "file_format": "rar"
 }
